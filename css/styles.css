@@ -1,0 +1,28 @@
+body{
+    margin-top: 0;
+    background-image: url(../img/fond.png);
+}
+
+
+header{
+    background-color: black;
+    box-sizing: border-box;
+    width: 60%;
+    height: 12em;
+    margin: 0 auto;
+}
+nav{
+    padding-top: 5em;
+}
+nav a{
+    padding-left: 4em;
+    padding-top: 20em;
+    font-family: 'Oswald', sans-serif;
+    color: rgb(238, 233, 225);
+}
+
+header img {
+    float: left;
+    margin: 25px;
+   
+}
